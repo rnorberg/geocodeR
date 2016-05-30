@@ -7,3 +7,4 @@ Maintainer: Robert Norberg <robertcnorberg@gmail.com>
 Description: An easy to use R interface to the Census.gov geocoding API.
 License: GPL-3
 LazyData: TRUE
+Suggests: testthat
