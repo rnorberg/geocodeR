@@ -1,0 +1,9 @@
+Package: geocodeR
+Type: Package
+Title: An R Package for Geocoding Addresses
+Version: 0.1.0
+Author: Robert Norberg
+Maintainer: Robert Norberg <robertcnorberg@gmail.com>
+Description: An easy to use R interface to the Census.gov geocoding API.
+License: GPL-3
+LazyData: TRUE
